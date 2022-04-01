@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Historial from './Historial'
-import Swal from "sweetalert2"
 
 export default class Historia extends Component {
   constructor() {
